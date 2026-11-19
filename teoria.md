@@ -40,4 +40,4 @@ Esses elementos possuem funções diferentes, mas trabalham em conjunto para per
 
  ## Imagem do experimento
 
-![Simulação de gerenciamento de processos](imagens/gerenciamento-processos.png)
+![Simulação de gerenciamento de processos](./imagem/gerenciamento-processos.png)
