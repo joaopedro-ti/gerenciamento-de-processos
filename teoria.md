@@ -37,3 +37,7 @@ O experimento permitiu compreender melhor como o gerenciamento de processos infl
  Memória RAM: armazena informações e dados necessários para a execução dos processos.
 
 Esses elementos possuem funções diferentes, mas trabalham em conjunto para permitir que o sistema operacional execute e gerencie vários processos.
+
+ ## Imagem do experimento
+
+![Simulação de gerenciamento de processos](imagens/gerenciamento-processos.png)
